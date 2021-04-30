@@ -1,0 +1,28 @@
+footer {
+    background-color: #f5f5f5;
+    padding: 33px 0 82px 0;
+    width: 100%;
+}
+.wrapper-footer {
+    display: flex;
+   margin: 0 auto;
+}
+.wrapper-footer div, nav {
+    width: 50%;
+}
+footer nav ul {
+    display: flex; 
+}
+
+nav ul li {
+    list-style: var(--main-value);  
+    padding-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: var(--main-value);
+}
+.wrapper-adress p {
+    font-size: 14px;
+    color: #bebebe;
+} 

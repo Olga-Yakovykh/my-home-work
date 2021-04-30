@@ -1,0 +1,27 @@
+header {
+    background: url(../../img/header-bac.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 308px;  
+    height: 100%;
+    margin-bottom: 25px;
+    position: relative;
+    padding: 120px;
+   
+}
+.wrapper-text {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform: translateX(-50%);
+}
+
+.wrapper-text h1 {
+    font-size: 48px;
+    color: #e5e5e5;
+}
+
+
+
+
+

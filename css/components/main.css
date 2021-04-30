@@ -1,0 +1,46 @@
+main {
+    padding: 28px 0 75px 0;
+    width: 100%;
+    border-bottom: 2px solid #dddddd;
+}
+
+.article-review {
+    padding-bottom: 73px;
+}
+.article-review h2 {
+    font-size: 30px;
+    color: var(--text-color);
+    padding-bottom: 45px;
+}
+
+.articles-wrapper p {
+    font-size: var(--font-size);
+    color: var(--text-color);
+    line-height: 1.5em;
+}
+
+.article-review p:not(:last-child) {
+    padding-bottom: 35px;
+}
+
+.articles-wrapper p span {
+    font-weight: bold;
+}
+
+.main-review h2 {
+font-size: 24px;
+color: #325d72;
+margin-bottom: 35px;
+border-bottom: 1px solid #dddddd;
+}
+
+.main-review h2 p {
+    font-size: var(--font-size);
+    color: var(--text-color);
+}
+
+article.main-review p a {
+    font-size: var(--font-size);
+    color: #4183c4;
+    text-decoration: var(--main-value);
+}
